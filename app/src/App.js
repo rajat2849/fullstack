@@ -7,8 +7,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="title">
-        This is test file 
-        </div>
+          I am an example app Running in the rajat</div>
       </div>
     );
   }
